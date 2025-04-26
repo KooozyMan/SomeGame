@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/SomeGame/static/css/main.a4bbc95d.css",
+    "main.js": "/SomeGame/static/js/main.ff58b399.js",
+    "static/js/453.c1239e67.chunk.js": "/SomeGame/static/js/453.c1239e67.chunk.js",
+    "static/media/MonsterPicture2.png": "/SomeGame/static/media/MonsterPicture2.be8dba0af79ce37ddd6f.png",
+    "static/media/MonsterPicture1.png": "/SomeGame/static/media/MonsterPicture1.465d670c19c3b4b749a1.png",
+    "index.html": "/SomeGame/index.html",
+    "main.a4bbc95d.css.map": "/SomeGame/static/css/main.a4bbc95d.css.map",
+    "main.ff58b399.js.map": "/SomeGame/static/js/main.ff58b399.js.map",
+    "453.c1239e67.chunk.js.map": "/SomeGame/static/js/453.c1239e67.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a4bbc95d.css",
+    "static/js/main.ff58b399.js"
+  ]
+}
