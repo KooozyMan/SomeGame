@@ -2,6 +2,7 @@ import './App.css';
 import Header from './Header'
 import ShowMonster from './ShowMonster';
 import Button from './Button'
+import HealthBar from './HealthBar';
 
 function App() {
   return (
@@ -16,10 +17,21 @@ function App() {
         <div style={{
           display: "flex",
           justifyContent: "center",
-          alignItems: "center"
+          alignItems: "center",
+          margin: "20px"
         }}>
           <ShowMonster monster="Charizard"/>
           <ShowMonster monster="Blastoise"/>
+        </div>
+
+        <div style={{
+          justifyContent: "center",
+          alignItems: "center",
+          display: "flex",
+          gap: "220px"
+        }}>
+          <HealthBar health="100" maxHealth="100"/>
+          <HealthBar health="100" maxHealth="100"/>
         </div>
 
         {/* Buttons div */}
